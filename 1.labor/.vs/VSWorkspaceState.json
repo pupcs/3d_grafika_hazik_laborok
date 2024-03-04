@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\main",
+    "\\client\\src\\main\\glsl",
+    "\\client\\src\\main\\kotlin",
+    "\\webglmath",
+    "\\webglmath\\src",
+    "\\webglmath\\src\\main",
+    "\\webglmath\\src\\main\\kotlin"
+  ],
+  "SelectedNode": "\\client\\src\\main\\kotlin\\Program.kt",
+  "PreviewInSolutionExplorer": false
+}
